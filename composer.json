@@ -1,0 +1,15 @@
+{
+    "name": "smwhr/36errors_crossing",
+    "description": "A bugged citybuilder",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {"name": "smwhr", "email": "julien@troisyaourts.com"}
+    ],
+    "minimum-stability": "dev",
+    "autoload":{
+        "psr-0":{
+            "" : "app"
+        }
+    }
+}
