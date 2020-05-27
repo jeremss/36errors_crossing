@@ -8,7 +8,7 @@ Copiez le fichier `config/secret.php.dist` vers `config/secret.php` (nouveau fic
 
 Le schéma de base de donnée de l'application est disponible dans le fichier `schema/crossing.sql`.  
 
-Faîtes pointer le dossier public vers `public`.
+Faites pointer le dossier public vers `public`.
 
 Ex : `php -S 0.0.0.0:8000 -t public`
 
